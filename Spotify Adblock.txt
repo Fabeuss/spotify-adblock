@@ -400,7 +400,6 @@ img.spotify.com
 insights.spotify.com 
 intercom.io
 internal.intercom.io
-ipinfo.io
 iria.ash1.spotify.com 
 iria.ash.spotify.com 
 j.admob.com
@@ -471,7 +470,6 @@ moat.pxl.ace.advertising.com
 moatads.com
 moatads.com.edgekey.net
 mobile-001.lon.spotify.com 
-
 mobile-sdk-api.intercom.io
 mobile.spotify.com 
 mosaic.scdn.co 
@@ -509,7 +507,6 @@ o1.em.spotify.com
 o11.em.spotify.com 
 o.admob.com
 oktascimserver.spotify.com 
-omaze.
 omaze.com
 opensource.spotify.com 
 ops-prod.us-west-2.k8s.ops.tune.com
